@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285549850010",
+    "project_id": "ifnews",
+    "storage_bucket": "ifnews.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285549850010:android:45fc742e11054ce79bde23",
+        "android_client_info": {
+          "package_name": "com.example.ifnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285549850010-4kg2007g7r2sc8r1nfhveli2qo2m5ima.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEnivkCsF6SzSoL8CPO6RX7nkJSALRV6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285549850010-4kg2007g7r2sc8r1nfhveli2qo2m5ima.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

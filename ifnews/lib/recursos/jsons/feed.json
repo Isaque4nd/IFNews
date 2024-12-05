@@ -1,0 +1,319 @@
+{
+    "noticias": [
+        {
+            "_id": 1,
+            "noticia": {
+                "titulo": "Edital de Ingresso 2025",
+                "autor": "Comunicação IFBA",
+                "url": "https://portal.ifba.edu.br/simoes-filho/institucional/processos-seletivos/aluno/ingresso-2025/ifba-lanca-edital-de-ingresso-2025-para-os-cursos-tecnicos-de-nivel-medio",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "ifba1.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Cursos",
+                "descricao": "O Instituto Federal de Educação, Ciência e Tecnologia da Bahia lança nesta quarta (11) o edital do Ingresso 2025 para os Cursos Técnicos de nível médio.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/ingresso2025"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 2,
+            "noticia": {
+                "titulo": "Robótica, Educação & Mundo do Trabalho",
+                "autor": "Verusa Pinho",
+                "url": "https://portal.ifba.edu.br/noticias/2024/robotica-educacao-mundo-do-trabalho-sao-tema-de-estudos-interdisciplinares-desenvolvidos-por-estudantes-e-docentes-do-campus-jacobina",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "robotica.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Robótica",
+                "descricao": "Promover motivação para as disciplinas curriculares, protagonismo juvenil e criticidade. Esses são alguns dos resultados alcançados através de projetos de pesquisa e extensão desenvolvidos no campus Jacobina do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) por professores e estudantes dos cursos técnicos integrados ao Ensino médio.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/jacobina/noticia/2023/robotica-em-foco-projetos-de-pesquisa-e-extensao-aliam-tecnologia-com-educacao-e-mundo-do-trabalho"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 3,
+            "noticia": {
+                "titulo": "Pós-graduação Lato Sensu em Desenvolvimento Web",
+                "autor": "Janaina Marinho",
+                "url": "https://portal.ifba.edu.br/noticias/2024/campus-vitoria-da-conquista-recebe-inscricoes-para-discentes-do-curso-de-pos-graduacao-lato-sensu-em-desenvolvimento-web",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "posgrad.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Pós",
+                "descricao": "O Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), por meio da Pró-Reitoria de Pesquisa, Pós-Graduação e Inovação (PRPGI), está com inscrições abertas até o próximo dia 8 de julho para o processo seletivo de ingresso de discentes no Curso de Pós-graduação Lato Sensu em Desenvolvimento Web, a ser ofertado pelo campus Vitória da Conquista.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/prpgi/editais/2024"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 4,
+            "noticia": {
+                "titulo": "Café Literário",
+                "autor": "Jamile Teixeira",
+                "url": "https://portal.ifba.edu.br/noticias/2024/estudantes-do-curso-de-eventos-realizam-cafe-literario-que-abordara-literatura-negra-e-cultura-baiana",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "cafe.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Café literátio",
+                "descricao": "O Café Literário que traz o tema “Palavras Negras em Destaque” será realizado por estudantes do curso superior de tecnologia em gestão de eventos do campus Salvador do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), no próximo sábado, 3 de agosto, das 14h às 18h, no auditório do Colégio Estadual Thales de Azevedo.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 5,
+            "noticia": {
+                "titulo": "JIFBA e Joindaf serão realizados em Jequié",
+                "autor": "Luize Meirelles",
+                "url": "https://portal.ifba.edu.br/noticias/2024/jifba-e-joindaf-sao-realizados-em-jequie",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "jifba.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "jifba",
+                "descricao": "Na primeira semana de setembro, no período de 2 a 6, a comunidade interna do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) estará com a atenção voltada para o campus Jequié. Mais de 900 pessoas – entre estudantes, professores(as) e técnicos(as)-administrativos(as) – estarão reunidas para a sexta edição dos Jogos Integradores do IFBA (JIFBA) e a terceira edição da Mostra Intercultural de Jogos Indígenas e Africanos (Joindaf).",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/2023/disponivel-programacao-do-jifba"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 6,
+            "noticia": {
+                "titulo": "Tesouro Gerencial",
+                "autor": "Gilberto Amorim",
+                "url": "https://portal.ifba.edu.br/noticias/2024/curso-de-tesouro-gerencial-e-realizado-na-reitoria-do-ifba",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "tesouro.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Cursos",
+                "descricao": "A ação é estratégica para apoiar a tomada de decisão dos(as) gestores(as) da Reitoria e dos campi na extração, análise e produção de relatórios da execução orçamentária e financeira do IFBA, auxiliando o processo decisório.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 7,
+            "noticia": {
+                "titulo": "II Semana da Voz",
+                "autor": "Jamile Teixeira",
+                "url": "https://portal.ifba.edu.br/noticias/2024/ii-semana-da-voz-vai-abordar-autocuidado-e-bem-estar-no-campus-salvador",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "voz.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Evento",
+                "descricao": "Em mais uma edição, a “Semana da Voz: corpo fala, corpo canta” acontecerá no Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), campus Salvador, de 2 a 6 de setembro, para incentivar o autocuidado e o bem-estar dos servidores, estudantes da comunidade interna e da comunidade externa, mediante limite de vagas.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/salvador/documentos/noticias/2024/Semana_da_Voz.pdf"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 8,
+            "noticia": {
+                "titulo": "Primeira apresentação de projeto de final de curso com tradução em Libras",
+                "autor": "Jornal IFBA",
+                "url": "https://portal.ifba.edu.br/noticias/2024/campus-vitoria-da-conquista-realiza-primeira-apresentacao-de-projeto-de-final-de-curso-com-traducao-em-libras",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "libras.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "Libras",
+                "descricao": "A discente de Engenharia Elétrica Larissa Santos Oliveira do Campus Vitória da Conquista do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) defendeu, na última terça-feira, dia 13 de agosto, seu projeto de final de curso com o título  'Identificação Visual em Tempo Real da Datilologia em Libras – Facilitador na Comunicação entre pessoas Falantes e Não Falantes', sob a orientação do professor Dr. José Diaz  e coorientação do professor Dr.  Marcelo Meira Alves.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 9,
+            "noticia": {
+                "titulo": "Olimpíada Nacional de Filosofia",
+                "autor": "Luize Meirelles",
+                "url": "https://portal.ifba.edu.br/noticias/2024/estudantes-do-ifba-conquistam-medalha-na-etapa-regional-da-olimpiada-nacional-de-filosofia",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "filosofia.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "filosofia",
+                "descricao": "Isak Sampaio, do campus Jequié, e Lucas Santos, do campus Camaçari, receberam as medalhas de ouro e prata, respectivamente, ao serem classificados entre os melhores ensaios filosóficos da região Nordeste. A conquista possibilita que participem da etapa nacional, que acontece em outubro no Rio Grande do Sul.",
+                "links_relacionados": [
+                    "https://onfilbr.org/onfil/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 10,
+            "noticia": {
+                "titulo": "Semana Nacional de Ciência, Tecnologia do IFBA",
+                "autor": "Helen Sampaio",
+                "url": "https://portal.ifba.edu.br/noticias/2024/semana-nacional-de-ciencia-tecnologia-do-ifba-acontece-nesta-quarta-no-campus-salvador",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "semanatec.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "tecnologia",
+                "descricao": "Com o tema 'Biomas do Brasil: diversidade, saberes e tecnologias sociais', referência divulgada pelo Ministério da Ciência, Tecnologia e Inovação (MCTI) e que será adotada por todas as semanas de ciência e tecnologia que serão realizadas nos campi do IFBA, o evento desta quarta-feira (21) conta com o apoio do campus Salvador.",
+                "links_relacionados": [
+                    "https://www.even3.com.br/lancamento-xxi-snct/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 11,
+            "noticia": {
+                "titulo": "Prêmio IEL de Talentos",
+                "autor": "Andréa Costa",
+                "url": "https://portal.ifba.edu.br/noticias/2024/campus-salvador-se-destaca-no-premio-iel-de-talentos-pelo-terceiro-ano-consecutivo",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "iel.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "iel",
+                "descricao": "Com três premiações, o campus Salvador do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA) obtém destaque, pela terceira vez consecutiva, no Prêmio IEL de Talentos, etapa estadual, em cerimônia de premiação ocorrida na noite de 21 de agosto, na Casa Salvatore, localizada na capital baiana.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/salvador/comunicacao/noticias/2023/ifba-conquista-premio-iel-de-talentos-na-etapa-nacional"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 12,
+            "noticia": {
+                "titulo": "Seminário de pesquisa",
+                "autor": "Henrique Soares",
+                "url": "https://portal.ifba.edu.br/noticias/2024/campus-salvador-promove-seminario-de-pesquisa-nesta-quarta-feira-28",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "seminario.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "seminario",
+                "descricao": "O evento será realizado das 16h às 17h, por meio de transmissão do YouTube. A ideia é criar momentos de intercâmbio de conhecimentos e o avanço científico entre estudantes, professores(as) e pesquisadores(as).",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 13,
+            "noticia": {
+                "titulo": "Semana de Inclusão e Setembro Surdo do campus Jacobina",
+                "autor": "Verusa Pinho",
+                "url": "https://portal.ifba.edu.br/noticias/2024/semana-de-inclusao-e-setembro-surdo-do-campus-jacobina-inscricoes-abertas-para-submissao-de-propostas",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "inclusao.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "inclusao",
+                "descricao": "Esse é o tema da V Semana de Inclusão  e do VII Setembro Surdo do campus Jacobina do Instituto Federal de Educação, Ciência e Tecnologia da Bahia (IFBA), que acontecem de 24 a 26 de setembro no Instituto.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 14,
+            "noticia": {
+                "titulo": "Evento de energia, óleo e gás em São Paulo",
+                "autor": "Henrique Soares",
+                "url": "https://portal.ifba.edu.br/noticias/2024/pesquisadores-as-do-campus-salvador-participam-de-evento-de-energia-oleo-e-gas-em-sp",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "pesquisa.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "pesquisa",
+                "descricao": "Foram apresentados cinco trabalhos: quatro por estudantes de graduação dos cursos de engenharia, que integram o Grupo de Pesquisas em Ensaios Não Destrutivos (GPEND), e um pelo Programa de Pós-Graduação em Engenharia de Materiais (PPGEM).",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/noticias/"
+                ]
+            },
+            "likes": 0
+        },
+        {
+            "_id": 15,
+            "noticia": {
+                "titulo": "Quatro campi do IFBA ganharão refeitórios estudantis",
+                "autor": "Bárbara Souza",
+                "url": "https://portal.ifba.edu.br/noticias/2024/consolidacao-quatro-campi-do-ifba-ganharao-refeitorios-estudantis",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "refeitorio.jpeg"
+                    }
+                ],
+                "data": "2024-09-12T09:01:00Z",
+                "categoria": "consolidacao",
+                "descricao": "As comunidades dos campi Barreiras, Simões Filho e Valença, além do campus Avançado de Ubaitaba, passarão a contar com os novos equipamentos, cuja entrega está prevista para 2025.",
+                "links_relacionados": [
+                    "https://portal.ifba.edu.br/mec-investe-r-449-1-mi-para-infraestrutura-da-rede-federal"
+                ]
+            },
+            "likes": 0
+        }
+    ]
+}

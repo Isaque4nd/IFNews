@@ -1,0 +1,2 @@
+C:/Users/EDMILSON/Downloads/ifnews/build/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_2dcfc.dir
+C:/Users/EDMILSON/Downloads/ifnews/build/CMakeFiles/CMakeTmp/CMakeFiles/ALL_BUILD.dir
